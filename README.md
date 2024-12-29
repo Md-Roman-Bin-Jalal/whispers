@@ -1,4 +1,4 @@
-Whispers Beneath The Darkness - A Python & OpenGL exploration game built with Python and OpenGL, using glPoints, the Midpoint Line Algorithm, and the Midpoint Circle Algorithm. The game focuses on minimalistic visuals, creating an eerie and atmospheric experience where the environment evolves as the player uncovers key story fragments.
+Whispers Beneath The Darkness - A Python & OpenGL atmospheric exploration game built with Python and OpenGL, using glPoints, the Midpoint Line Algorithm, and the Midpoint Circle Algorithm. The game focuses on minimalistic visuals, creating an eerie and atmospheric experience where the environment evolves as the player uncovers key story fragments.
 
 Chapter 1 - The City of Echoes where the protagonist explores a decaying city filled with hidden memories. As the player discovers key fragments, the environment begins to change, reflecting the protagonist's journey and unraveling the city’s tragic past.
 
